@@ -1,0 +1,3 @@
+[submodule "pagesigner"]
+	path = pagesigner
+	url = git@github.com:summitto/pagesigner.git
